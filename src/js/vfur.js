@@ -1,0 +1,1 @@
+var VFUR = { Version: 0.1 };
